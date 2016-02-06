@@ -14,31 +14,20 @@
         "metadata": {
           "label": ""
         },
-        "properties": {},
-        "children": [
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "name": "Say",
-              "inputParams": [
-                {
-                  "key": "message",
-                  "type": "string",
-                  "value": "Hello mister"
-                }
-              ],
-              "outputParams": []
-            },
-            "children": [],
-            "id": "8a4d5695-9239-4caf-98a7-fec294eb58f2",
-            "type": "action"
-          }
-        ],
-        "id": "e2ec3071-d7f8-4609-bc0b-b2a3c0018857",
-        "type": "sequence"
+        "properties": {
+          "name": "Say",
+          "inputParams": [
+            {
+              "key": "message",
+              "type": "string",
+              "value": "Test"
+            }
+          ],
+          "outputParams": []
+        },
+        "children": [],
+        "id": "548b82ee-1d49-4c2a-80a9-455cbf960988",
+        "type": "action"
       }
     ],
     "id": "2fb133b5-34ac-4430-a05d-221e7dda7619"

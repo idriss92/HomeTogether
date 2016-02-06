@@ -8,7 +8,39 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "Say",
+              "inputParams": [
+                {
+                  "key": "message",
+                  "type": "string",
+                  "value": "Hello mister"
+                }
+              ],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "8a4d5695-9239-4caf-98a7-fec294eb58f2",
+            "type": "action"
+          }
+        ],
+        "id": "e2ec3071-d7f8-4609-bc0b-b2a3c0018857",
+        "type": "sequence"
+      }
+    ],
     "id": "2fb133b5-34ac-4430-a05d-221e7dda7619"
   }
 ]
